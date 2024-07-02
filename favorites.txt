@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-Pizza\nSushi\nIce Cream
-=======
-Inception\nThe Matrix\nInterstellar
->>>>>>> movies
+Pizza
+Sushi
+Ice Cream
+Inception
+The Matrix
+Interstellar
